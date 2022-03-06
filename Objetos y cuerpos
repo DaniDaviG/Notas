@@ -1,0 +1,13 @@
+Para crear un cuerpo en Matter:
+
+1.- Creamos las opciones
+2.- Creamos el cuerpo  usando BODIES
+3.- Agregamos el cuerpo al mundo World.add(world,cuerpo)
+4.- Dibujamos el cuepor en draw
+
+Para cerar un objeto en clase POO
+1.- Creamos la clase
+    1.1.- constructor
+    1.2.-metodos de dibujo o de transformacion
+2.- Creamos el objeto y mandamos las propiedas al constructor var algo = new NombreClase(propiedades)
+3.- Usamos el metodo de display dentro de draw para dibujar el objeto algo.display();
